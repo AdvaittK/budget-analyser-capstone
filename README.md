@@ -1,9 +1,9 @@
 ## Budget Analyzer and Tracker
 
-Budgie app is a tool to track your expenses and analyze them, built with React and styled with Tailwind css.
+This is a tool to track your expenses and analyze them, built with React and styled with Tailwind css.
 
 ## Demo (Desktop only)
-
+budget-analyser-capstone.vercel.app
 
 ---
 
