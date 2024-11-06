@@ -3,8 +3,8 @@
 This is a tool to track your expenses and analyze them, built with React and styled with Tailwind css.
 
 ## Demo (Desktop only)
-budget-analyser-capstone.vercel.app
-
+[budget-analyser-capstone.vercel.app
+](https://budget-analyser-capstone.vercel.app/)
 ---
 
 
