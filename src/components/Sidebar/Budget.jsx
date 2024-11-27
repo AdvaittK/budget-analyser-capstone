@@ -55,8 +55,8 @@ export default function Budget({ isOpen }) {
 		<div
 			className={`${!isOpen && "flex"} budget p-4 rounded-2xl ${
 				remaining <= 0
-					? "text-green-text bg-green-main"
-					: "text-red-text bg-red-main"
+					? "text-red-text bg-red-main"
+					: "text-green-text bg-green-main"
 			}`}
 		>
 			{isOpen ? (
