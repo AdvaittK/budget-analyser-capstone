@@ -25,7 +25,7 @@ export default function Table({ rows }) {
 					{rows.map((tr) => (
 						<tr className="border-b" key={tr.id}>
 							<th scope="row" className={TD + "font-medium"}>
-								{!tr.description ? "$" : tr.description}
+								{!tr.description ? "Credit" : tr.description}
 							</th>
 							{tr.cost && (
 								<td className={TD + " text-red-main"}>
